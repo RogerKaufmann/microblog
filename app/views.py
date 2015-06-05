@@ -23,7 +23,7 @@ def index():
         },
         {
             'author': {'nickname': 'Roger'},
-            'body': 'Go fuck yourself!'
+            'body': 'Hello!'
         }
     ]
     return render_template("index.html",
